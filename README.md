@@ -35,5 +35,5 @@ The dataset I chose is from Amazon reviews of video games sold on Amazon. As a r
 </p>
 <br>
 
-##Summary
+## Summary
 In the Vine program, 51% of the reviews were 5 stars, compared to only 39% in non-Vine reviews. In the Vine program, this describes an optimism bias for reviews.
